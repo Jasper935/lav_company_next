@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lav_company_next/static/css/main.7c9a2d2d.css",
+    "main.js": "/lav_company_next/static/js/main.fad1fe26.js",
+    "static/media/hero.png": "/lav_company_next/static/media/hero.1dc8611bf522567d4101.png",
+    "static/media/symbol-defs.svg": "/lav_company_next/static/media/symbol-defs.4a5662e58211de8352e7f22c6747b284.svg",
+    "index.html": "/lav_company_next/index.html",
+    "main.7c9a2d2d.css.map": "/lav_company_next/static/css/main.7c9a2d2d.css.map",
+    "main.fad1fe26.js.map": "/lav_company_next/static/js/main.fad1fe26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9a2d2d.css",
+    "static/js/main.fad1fe26.js"
+  ]
+}

@@ -1,0 +1,45 @@
+.container{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    padding: 0 15px;
+}
+.left{
+    padding: 50px 0;
+    width: 50%;
+
+}
+.title{
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 60px;
+}
+.title span{
+    color: var(--main-color);
+}
+.advantages{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    fill: var(--main-color);
+}
+.advantages p{
+    font-size: 18px;
+}
+.advantages li{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.right{
+    padding: 50px 0;
+    width: 50%;
+    height: fit-content;
+}

@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/lav_company_next/static/css/main.4a12903f.css",
-    "main.js": "/lav_company_next/static/js/main.73958197.js",
+    "main.css": "/lav_company_next/static/css/main.a695dfef.css",
+    "main.js": "/lav_company_next/static/js/main.4612c24b.js",
+    "static/media/how_it_works_bg.png": "/lav_company_next/static/media/how_it_works_bg.cd185bce8e788617ad19.png",
     "static/media/hero.png": "/lav_company_next/static/media/hero.1dc8611bf522567d4101.png",
+    "static/media/refund.png": "/lav_company_next/static/media/refund.8ed78bb2d802b715cca5.png",
     "static/media/hammer.png": "/lav_company_next/static/media/hammer.a8907591c101139a8007.png",
     "static/media/guarantee_bg.jpg": "/lav_company_next/static/media/guarantee_bg.af3612c90a4181c19bc9.jpg",
-    "static/media/symbol-defs.svg": "/lav_company_next/static/media/symbol-defs.994f72991c3c400aafe935756e194076.svg",
+    "static/media/symbol-defs.svg": "/lav_company_next/static/media/symbol-defs.bb854511a0b2d39f9ee51bcc1817f7ad.svg",
+    "static/media/people1.jpg": "/lav_company_next/static/media/people1.14b2e19018f7e79f68fc.jpg",
+    "static/media/people2.jpg": "/lav_company_next/static/media/people2.37fdf95b5946c951b077.jpg",
     "static/media/logo2.svg": "/lav_company_next/static/media/logo2.c97c986351b0c2d61ecdb404f421fb3b.svg",
     "index.html": "/lav_company_next/index.html",
-    "main.4a12903f.css.map": "/lav_company_next/static/css/main.4a12903f.css.map",
-    "main.73958197.js.map": "/lav_company_next/static/js/main.73958197.js.map"
+    "main.a695dfef.css.map": "/lav_company_next/static/css/main.a695dfef.css.map",
+    "main.4612c24b.js.map": "/lav_company_next/static/js/main.4612c24b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a12903f.css",
-    "static/js/main.73958197.js"
+    "static/css/main.a695dfef.css",
+    "static/js/main.4612c24b.js"
   ]
 }

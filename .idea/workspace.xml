@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b5b6a8c-ce9b-4b41-9e22-fa72fe03f4a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CallForm/CallForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CallForm/CallForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Differences/Differences.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Differences/Differences.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Guarantee/Guarantee.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Guarantee/Guarantee.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Problems/Problems.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Problems/Problems.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/symbol-defs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/symbol-defs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QFbdQrg9TdbQ9VcpyJpqPU8RzQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ilya/Documents/web/lav_company_next/src/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Documents\web\lav_company_next\src\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Documents\web\lav_company_next\src\images" />
+      <recent name="C:\Users\Ilya\Documents\web\lav_company_next" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5b6a8c-ce9b-4b41-9e22-fa72fe03f4a9" name="Changes" comment="" />
+      <created>1684952370747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684952370747</updated>
+      <workItem from="1684952374377" duration="155000" />
+      <workItem from="1684952676684" duration="15319000" />
+      <workItem from="1685013159555" duration="25000" />
+      <workItem from="1685032219151" duration="5531000" />
+      <workItem from="1685101743700" duration="72000" />
+      <workItem from="1685125634666" duration="1650000" />
+      <workItem from="1685180468127" duration="10298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

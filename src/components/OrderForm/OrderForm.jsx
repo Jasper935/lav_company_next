@@ -1,7 +1,7 @@
 import css from './OrderForm.module.css'
 import {useEffect, useState} from "react";
 
-export const OrderForm = () => {
+export const OrderForm = ({withName}) => {
     const [phone, setPhone] = useState('')
     const [isPhoneValid, setIsPhoneValid] = useState(false)
     const [isErrorMessage, setIsErrorMessage] = useState(false)
@@ -29,6 +29,7 @@ export const OrderForm = () => {
     }
     return (
         <form className={css.form} action="submit" onSubmit={onSubmit}>
+            {withName&&<input placeholder='Ваше имя' className={css.input} type="text" name='name' onChange={onChange}/>}
             <input placeholder='+7(___) ___-__-__' className={css.input} type="tel" name='tel' onChange={onChange}/>
             <button type={isPhoneValid?'submit':'button'}  className={css.button} onClick={onClick}>Оставить заявку</button>
             {!isPhoneValid&& isErrorMessage&&<p className={css.error}>Введите не меньше 8 символов</p>}

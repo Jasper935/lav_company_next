@@ -1,0 +1,50 @@
+
+.container{
+    background-color: var(--black);
+    width: 100%;
+}
+.footer{
+    width: 1170px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 35px;
+}
+.logo{
+    width: 350px;
+}
+.infoList{
+    display: flex;
+    flex-direction: column;
+}
+.infoItem{
+
+}
+.infoItem:first-child{
+    margin-bottom: 15px;
+}
+.infoItem p{
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+}
+.contacts{
+    width: 350px;
+}
+.contacts p{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    color: white;
+}
+.contacts a {
+    display: block;
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 0.05em;
+    margin-bottom: 15px;
+}

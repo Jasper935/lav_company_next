@@ -103,6 +103,10 @@
         <symbol id="icon-swipe" viewBox="0 0 16 32">
             <path d="M0 16l15-15.588v31.177l-15-15.588z"></path>
         </symbol>
+        <symbol id="icon-close" viewBox="0 0 32 32">
+            <path  d="M4.795 26.232l21.436-21.436 1.739 1.739-21.436 21.437-1.739-1.739z"></path>
+            <path  d="M6.537 4.795l21.436 21.436-1.739 1.739-21.436-21.436 1.739-1.739z"></path>
+        </symbol>
     </defs>
 
 </svg>

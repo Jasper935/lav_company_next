@@ -17,7 +17,7 @@ export const Problems = () => {
         icon: `${svg}#icon-options`
     },]
     return (<Layout>
-        <section className={css.container}>
+        <section id='problems' className={css.container}>
         <h2 className={css.title}>Какие проблемы мы решаем?</h2>
         <p className={css.subTitle}>Мы помогаем вывести деньги из таких организаций</p>
         <ul className={css.list}>

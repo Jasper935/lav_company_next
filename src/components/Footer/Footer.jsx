@@ -6,7 +6,7 @@ export const Footer =()=>{
     const info=['Юридическая компания "Ю-ПРАВО"', 'Данные юридического лица:', 'ИНН 323305843259','ОГРН 312366823500063']
     return(
         <div className={css.container}>
-        <footer className={css.footer}>
+        <footer id={'footer'} className={css.footer}>
             <img className={css.logo} src={logo} alt=""/>
             <ul className={css.infoList}>
                 {info.map(el=>{

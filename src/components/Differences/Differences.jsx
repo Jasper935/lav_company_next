@@ -19,7 +19,7 @@ export const Differences=()=>{
     },]
     return(
         <Layout>
-            <section className={css.container}>
+            <section id='diffrences' className={css.container}>
                 <h2 className={css.title}>В чем отличия наших услуг?</h2>
                 <p className={css.subTitle}>Почему наша компания заслуживает доверия с вашей стороны?</p>
                 <ul className={css.list}>

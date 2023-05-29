@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5b6a8c-ce9b-4b41-9e22-fa72fe03f4a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Acquainted/Acquainted.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Acquainted/Acquainted.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HowItWorks/HowItWorks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HowItWorks/HowItWorks.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Map/Map.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Map/Map.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OrderPopUp/OrderPopUp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/OrderPopUp/OrderPopUp.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/QuestionsAnswers/QuestionsAnswers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/QuestionsAnswers/QuestionsAnswers.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Recommendation/Recommendation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Recommendation/Recommendation.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Refund/Refund.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Refund/Refund.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CallForm/CallForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CallForm/CallForm.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Differences/Differences.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Differences/Differences.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Differences/Differences.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Differences/Differences.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Guarantee/Guarantee.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Guarantee/Guarantee.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Problems/Problems.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Problems/Problems.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Problems/Problems.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Problems/Problems.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/symbol-defs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/symbol-defs.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +68,7 @@
       <workItem from="1685213409073" duration="8889000" />
       <workItem from="1685285151177" duration="10749000" />
       <workItem from="1685357049275" duration="5337000" />
-      <workItem from="1685371943344" duration="599000" />
+      <workItem from="1685371943344" duration="1318000" />
     </task>
     <servers />
   </component>

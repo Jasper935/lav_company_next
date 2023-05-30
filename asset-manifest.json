@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lav_company_next/static/css/main.1bdc1fff.css",
-    "main.js": "/lav_company_next/static/js/main.76305ced.js",
+    "main.css": "/lav_company_next/static/css/main.c8a6a8c0.css",
+    "main.js": "/lav_company_next/static/js/main.3c4e06b5.js",
     "static/media/how_it_works_bg.png": "/lav_company_next/static/media/how_it_works_bg.cd185bce8e788617ad19.png",
     "static/media/hero.png": "/lav_company_next/static/media/hero.1dc8611bf522567d4101.png",
     "static/media/refund.png": "/lav_company_next/static/media/refund.8ed78bb2d802b715cca5.png",
@@ -12,18 +12,18 @@
     "static/media/otziv-3.png": "/lav_company_next/static/media/otziv-3.5ae6b92810fceee6c01d.png",
     "static/media/otziv-5.png": "/lav_company_next/static/media/otziv-5.941399942696ce96f687.png",
     "static/media/otziv-2.png": "/lav_company_next/static/media/otziv-2.a8690ffd27e6096b3793.png",
+    "static/media/symbol-defs.svg": "/lav_company_next/static/media/symbol-defs.146685996aa189e3d9a487743212c4d1.svg",
     "static/media/guarantee_bg.jpg": "/lav_company_next/static/media/guarantee_bg.af3612c90a4181c19bc9.jpg",
-    "static/media/symbol-defs.svg": "/lav_company_next/static/media/symbol-defs.4b02b863f0cd39197933c9eed33c0a4d.svg",
     "static/media/card_small.JPG": "/lav_company_next/static/media/card_small.0b6347d221d0fd1b0875.JPG",
     "static/media/people1.jpg": "/lav_company_next/static/media/people1.14b2e19018f7e79f68fc.jpg",
     "static/media/people2.jpg": "/lav_company_next/static/media/people2.37fdf95b5946c951b077.jpg",
     "static/media/logo2.svg": "/lav_company_next/static/media/logo2.c97c986351b0c2d61ecdb404f421fb3b.svg",
     "index.html": "/lav_company_next/index.html",
-    "main.1bdc1fff.css.map": "/lav_company_next/static/css/main.1bdc1fff.css.map",
-    "main.76305ced.js.map": "/lav_company_next/static/js/main.76305ced.js.map"
+    "main.c8a6a8c0.css.map": "/lav_company_next/static/css/main.c8a6a8c0.css.map",
+    "main.3c4e06b5.js.map": "/lav_company_next/static/js/main.3c4e06b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bdc1fff.css",
-    "static/js/main.76305ced.js"
+    "static/css/main.c8a6a8c0.css",
+    "static/js/main.3c4e06b5.js"
   ]
 }

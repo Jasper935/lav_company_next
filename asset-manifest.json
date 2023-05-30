@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lav_company_next/static/css/main.bfeac444.css",
-    "main.js": "/lav_company_next/static/js/main.66a93641.js",
+    "main.css": "/lav_company_next/static/css/main.1bdc1fff.css",
+    "main.js": "/lav_company_next/static/js/main.76305ced.js",
     "static/media/how_it_works_bg.png": "/lav_company_next/static/media/how_it_works_bg.cd185bce8e788617ad19.png",
     "static/media/hero.png": "/lav_company_next/static/media/hero.1dc8611bf522567d4101.png",
     "static/media/refund.png": "/lav_company_next/static/media/refund.8ed78bb2d802b715cca5.png",
@@ -19,11 +19,11 @@
     "static/media/people2.jpg": "/lav_company_next/static/media/people2.37fdf95b5946c951b077.jpg",
     "static/media/logo2.svg": "/lav_company_next/static/media/logo2.c97c986351b0c2d61ecdb404f421fb3b.svg",
     "index.html": "/lav_company_next/index.html",
-    "main.bfeac444.css.map": "/lav_company_next/static/css/main.bfeac444.css.map",
-    "main.66a93641.js.map": "/lav_company_next/static/js/main.66a93641.js.map"
+    "main.1bdc1fff.css.map": "/lav_company_next/static/css/main.1bdc1fff.css.map",
+    "main.76305ced.js.map": "/lav_company_next/static/js/main.76305ced.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfeac444.css",
-    "static/js/main.66a93641.js"
+    "static/css/main.1bdc1fff.css",
+    "static/js/main.76305ced.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lav_company_next/static/css/main.c8a6a8c0.css",
-    "main.js": "/lav_company_next/static/js/main.3c4e06b5.js",
+    "main.css": "/lav_company_next/static/css/main.e207b35e.css",
+    "main.js": "/lav_company_next/static/js/main.a4c3b36a.js",
     "static/media/how_it_works_bg.png": "/lav_company_next/static/media/how_it_works_bg.cd185bce8e788617ad19.png",
     "static/media/hero.png": "/lav_company_next/static/media/hero.1dc8611bf522567d4101.png",
     "static/media/refund.png": "/lav_company_next/static/media/refund.8ed78bb2d802b715cca5.png",
@@ -19,11 +19,11 @@
     "static/media/people2.jpg": "/lav_company_next/static/media/people2.37fdf95b5946c951b077.jpg",
     "static/media/logo2.svg": "/lav_company_next/static/media/logo2.c97c986351b0c2d61ecdb404f421fb3b.svg",
     "index.html": "/lav_company_next/index.html",
-    "main.c8a6a8c0.css.map": "/lav_company_next/static/css/main.c8a6a8c0.css.map",
-    "main.3c4e06b5.js.map": "/lav_company_next/static/js/main.3c4e06b5.js.map"
+    "main.e207b35e.css.map": "/lav_company_next/static/css/main.e207b35e.css.map",
+    "main.a4c3b36a.js.map": "/lav_company_next/static/js/main.a4c3b36a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8a6a8c0.css",
-    "static/js/main.3c4e06b5.js"
+    "static/css/main.e207b35e.css",
+    "static/js/main.a4c3b36a.js"
   ]
 }

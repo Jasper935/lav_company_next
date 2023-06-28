@@ -5,6 +5,7 @@ export const HowItWorks = () => {
     const content = ['Вы предоставляете информацию о проблеме', 'Наши специалисты изучают ваш вопрос', 'Согласовываем вознаграждение и подписываем договор', 'Возвращаем вам деньги, Вы оплачиваете наши услуги',]
 
     return (<section className={css.container} id={'howItWorks'}>
+        <img className={css.img} src={bg} alt="girl"/>
         <div className={css.wrap}>
             <div className={css.content}>
                 <h3 className={css.title}>Как мы работаем?</h3>
@@ -16,6 +17,6 @@ export const HowItWorks = () => {
                 </ul>
             </div>
         </div>
-        <img className={css.img} src={bg} alt="girl"/>
+
     </section>)
 }

@@ -9,10 +9,9 @@ export const CallForm = () => {
             <div className={css.content}>
                 <div className={css.left}><h3 className={css.title}>Звоните сейчас и получите бесплатную консультацию
                     нашего юриста</h3>
-                    <a className={css.link} type='tel' href="">+7 (473) 200-04-86</a>
-
+                    <a className={css.link} type='tel' href="tel:+74001234567">+7 400 123 45 67</a>
                 </div>
-                <img className={css.image} src={hammer} alt="hammer"/>
+                <img className={css.image} src={hammer} alt="hammer" />
             </div>
             <OrderForm withName/>
 

@@ -1,52 +1,147 @@
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media  (max-width: 767px) {
+    .form{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+    }
+    .input{
+        width: 90%;
+        height: 60px;
+        border: 1px solid #eaeaea;
+        padding: 12px;
 
+        letter-spacing: 0.15em;
+        font-size: 20px;
+
+    }
+    .input:focus{
+        border: 1px solid #eaeaea;
+        outline: none;
+
+    }
+    .button{
+        width: 90%;
+        padding: 0 50px;
+        height: 60px;
+        background: var(--main-color);
+        font-size: 20px;
+        font-weight: 500;
+        box-shadow: 0px 3px 0px 0px #414F4F;
+        border-radius: 5px;
+        color: white;
+        transition: all 0.3s linear;
+    }
+    .button:hover{
+        background: var(--black);
+        transition: all 0.3s linear;
+    }
+    .error{
+        position: absolute;
+        font-size: 15px;
+        color: #9b0c0c;
+        bottom:-25px;
+
+
+    }
 }
 
 /* //----------------------------------------------------------------------TABLET----------------------------------------------------- */
-@media screen and (min-width: 768px) and (max-width: 1199px) {}
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+    .form{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+    }
+    .input{
+        width: 500px;
+        height: 60px;
+        border: 1px solid #eaeaea;
+        padding: 12px;
+
+        letter-spacing: 0.15em;
+        font-size: 20px;
+
+    }
+    .input:focus{
+        border: 1px solid #eaeaea;
+        outline: none;
+
+    }
+    .button{
+        width: 500px;
+        padding: 0 50px;
+        height: 60px;
+        background: var(--main-color);
+        font-size: 20px;
+        font-weight: 500;
+        box-shadow: 0px 3px 0px 0px #414F4F;
+        border-radius: 5px;
+        color: white;
+        transition: all 0.3s linear;
+    }
+    .button:hover{
+        background: var(--black);
+        transition: all 0.3s linear;
+    }
+    .error{
+        position: absolute;
+        font-size: 15px;
+        color: #9b0c0c;
+        bottom:-25px;
+
+
+    }
+}
 /* "//-------------------------------------------------------DESKTOP----------------------------------------------------------------- */
 
-@media (min-width: 1200px) {}
-.form{
-position: relative;
-    display: flex;
-    justify-content: center;
-}
-.input{
-    width: 280px;
-    height: 60px;
-    border: 1px solid #eaeaea;
-    padding: 12px;
-    padding-left: 20px;
-    letter-spacing: 0.15em;
-    font-size: 20px;
-    margin-right: 20px;
-}
-.input:focus{
-    border: 1px solid #eaeaea;
-    outline: none;
+@media (min-width: 1200px) {
+    .form{
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+    .input{
+        width: 280px;
+        height: 60px;
+        border: 1px solid #eaeaea;
+        padding: 12px;
+        padding-left: 20px;
+        letter-spacing: 0.15em;
+        font-size: 20px;
+        margin-right: 20px;
+    }
+    .input:focus{
+        border: 1px solid #eaeaea;
+        outline: none;
 
-}
-.button{
-    padding: 0 50px;
-    height: 60px;
-    background: var(--main-color);
-    font-size: 20px;
-    font-weight: 500;
-    box-shadow: 0px 3px 0px 0px #414F4F;
-    border-radius: 5px;
-    color: white;
-    transition: all 0.3s linear;
-}
-.button:hover{
-    background: var(--black);
-    transition: all 0.3s linear;
-}
-.error{
-    position: absolute;
-    font-size: 15px;
-    color: #9b0c0c;
-    bottom:-25px;
-    left: 20px;
+    }
+    .button{
+        padding: 0 50px;
+        height: 60px;
+        background: var(--main-color);
+        font-size: 20px;
+        font-weight: 500;
+        box-shadow: 0px 3px 0px 0px #414F4F;
+        border-radius: 5px;
+        color: white;
+        transition: all 0.3s linear;
+    }
+    .button:hover{
+        background: var(--black);
+        transition: all 0.3s linear;
+    }
+    .error{
+        position: absolute;
+        font-size: 15px;
+        color: #9b0c0c;
+        bottom:-25px;
+        left: 20px;
 
+    }
 }

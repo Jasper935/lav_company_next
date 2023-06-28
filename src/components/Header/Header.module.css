@@ -1,10 +1,12 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .container {
-        width: 100%;
-        height: fit-content;
-        padding: 0 15px;
-        padding-bottom: 25px;
+        /*width: 100%;*/
+        /*height: fit-content;*/
 
+        padding-bottom: 25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .topSide {
@@ -15,7 +17,10 @@
         justify-content: space-between;
         gap: 15px;
     }
+    .topSide img{
 
+        cursor: pointer;
+    }
     .firstBtn {
         font-size: 18px;
         padding: 12px 20px;
@@ -23,6 +28,7 @@
         border: 1px solid var(--black);
         transition: all 0.3s linear;
         border-radius: 5px;
+        color:var(--black) ;
     }
 
     .firstBtn:hover {
@@ -32,12 +38,14 @@
     }
 
     .secondBtn {
+        width: 200px;
         font-size: 18px;
         padding: 12px 20px;
         background: var(--main-color);
         color: white;
         transition: all 0.3s linear;
         border-radius: 5px;
+        margin-bottom: 15px;
     }
 
     .secondBtn:hover {
@@ -45,9 +53,11 @@
         color: white;
         transition: all 0.3s linear;
     }
-    .info{
+
+    .info {
 
     }
+
     .info a {
         display: block;
         width: 100%;
@@ -56,6 +66,7 @@
         color: var(--black);
         letter-spacing: 0.05em;
         text-align: center;
+        margin-bottom: 10px;
     }
 
     .info p {
@@ -65,20 +76,30 @@
     }
 
     .nav {
-        display: none;
-        margin-top: 40px;
+
+
 
     }
 
     .navList {
         display: flex;
         justify-content: center;
+        flex-direction: column;
         gap: 20px;
+        padding-bottom: 25px;
     }
 
     .navList li {
 
     }
+
+    .icon {
+        width: 50px;
+        height: 50px;
+        margin: 25px;
+        fill: var(--black);
+    }
+
 
     .navLink {
         font-size: 18px;
@@ -94,7 +115,122 @@
 }
 
 /* //----------------------------------------------------------------------TABLET----------------------------------------------------- */
-@media screen and (min-width: 768px) and (max-width: 1199px) {}
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+    .container {
+        /*width: 100%;*/
+        /*height: fit-content;*/
+
+        padding-bottom: 25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topSide {
+        height: fit-content;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 15px;
+    }
+    .topSide img{
+
+        cursor: pointer;
+    }
+    .firstBtn {
+        font-size: 18px;
+        padding: 12px 20px;
+        background: transparent;
+        border: 1px solid var(--black);
+        transition: all 0.3s linear;
+        border-radius: 5px;
+        color:var(--black) ;
+    }
+
+    .firstBtn:hover {
+        background: var(--black);
+        color: white;
+        transition: all 0.3s linear;
+    }
+
+    .secondBtn {
+        width: 200px;
+        font-size: 18px;
+        padding: 12px 20px;
+        background: var(--main-color);
+        color: white;
+        transition: all 0.3s linear;
+        border-radius: 5px;
+        margin-bottom: 15px;
+    }
+
+    .secondBtn:hover {
+        background: var(--black);
+        color: white;
+        transition: all 0.3s linear;
+    }
+
+    .info {
+
+    }
+
+    .info a {
+        display: block;
+        width: 100%;
+        font-size: 25px;
+        font-weight: 800;
+        color: var(--black);
+        letter-spacing: 0.05em;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .info p {
+        font-size: 16px;
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .nav {
+
+
+
+    }
+
+    .navList {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+        padding-bottom: 25px;
+    }
+
+    .navList li {
+
+    }
+
+    .icon {
+        width: 50px;
+        height: 50px;
+        margin: 25px;
+        fill: var(--black);
+    }
+
+
+    .navLink {
+        font-size: 18px;
+        line-height: 24px;
+        color: var(--black);
+        transition: all 0.2s linear;
+    }
+
+    .navLink:hover {
+        color: var(--main-color);
+        transition: all 0.2s linear;
+    }
+}
+
 /* "//-------------------------------------------------------DESKTOP----------------------------------------------------------------- */
 
 @media (min-width: 1200px) {
@@ -110,7 +246,11 @@
         align-items: center;
         justify-content: space-between;
     }
-
+    .topSide img{
+        width: 300px;
+        margin-top: 28px;
+        cursor: pointer;
+    }
     .firstBtn {
         font-size: 18px;
         padding: 12px 20px;

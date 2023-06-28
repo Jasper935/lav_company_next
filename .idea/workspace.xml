@@ -5,7 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5b6a8c-ce9b-4b41-9e22-fa72fe03f4a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Notification/Notification.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Notification/Notification.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useContract.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useOrders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Appeal/Appeal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Appeal/Appeal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Contract/Contract.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Contract/Contract.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/notification-selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/notification-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Acquainted/Acquainted.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Acquainted/Acquainted.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CallForm/CallForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CallForm/CallForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CallForm/CallForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CallForm/CallForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Differences/Differences.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Differences/Differences.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Guarantee/Guarantee.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Guarantee/Guarantee.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HowItWorks/HowItWorks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HowItWorks/HowItWorks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HowItWorks/HowItWorks.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HowItWorks/HowItWorks.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Map/Map.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Map/Map.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Map/Map.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Map/Map.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderForm/OrderForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderPopUp/OrderPopUp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderPopUp/OrderPopUp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OrderPopUp/OrderPopUp.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OrderPopUp/OrderPopUp.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Problems/Problems.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Problems/Problems.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/QuestionsAnswers/QuestionsAnswers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuestionsAnswers/QuestionsAnswers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/QuestionsAnswers/QuestionsAnswers.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QuestionsAnswers/QuestionsAnswers.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recommendation/Recommendation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recommendation/Recommendation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recommendation/Recommendation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recommendation/Recommendation.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Refund/Refund.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Refund/Refund.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/map.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/symbol-defs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/symbol-defs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +79,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ilya/Documents/web/lav_company_next/src/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ilya/Documents/web/lav_company_next&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -46,6 +93,9 @@
       <recent name="C:\Users\Ilya\Documents\web\lav_company_next\src\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilya\Documents\web\lav_company_next\public" />
+      <recent name="C:\Users\Ilya\Documents\web\lav_company_next\src\components" />
+      <recent name="C:\Users\Ilya\Documents\web\lav_company_next\src" />
       <recent name="C:\Users\Ilya\Documents\web\lav_company_next\src\images" />
       <recent name="C:\Users\Ilya\Documents\web\lav_company_next" />
     </key>
@@ -69,6 +119,32 @@
       <workItem from="1685285151177" duration="10749000" />
       <workItem from="1685357049275" duration="5337000" />
       <workItem from="1685371943344" duration="1318000" />
+      <workItem from="1685380537128" duration="7921000" />
+      <workItem from="1685447597336" duration="24000" />
+      <workItem from="1685468778915" duration="1817000" />
+      <workItem from="1685475632188" duration="1153000" />
+      <workItem from="1685637046057" duration="7547000" />
+      <workItem from="1685708863353" duration="9000" />
+      <workItem from="1687105377454" duration="8262000" />
+      <workItem from="1687177372749" duration="24000" />
+      <workItem from="1687352628638" duration="628000" />
+      <workItem from="1687353275420" duration="991000" />
+      <workItem from="1687431280038" duration="5021000" />
+      <workItem from="1687523505545" duration="1871000" />
+      <workItem from="1687535596254" duration="5128000" />
+      <workItem from="1687550964899" duration="6365000" />
+      <workItem from="1687696037900" duration="1720000" />
+      <workItem from="1687784937365" duration="306000" />
+      <workItem from="1687794576063" duration="2626000" />
+      <workItem from="1687864775812" duration="14000" />
+      <workItem from="1687877443642" duration="1042000" />
+      <workItem from="1687879139713" duration="1888000" />
+      <workItem from="1687889328271" duration="2587000" />
+      <workItem from="1687896784996" duration="274000" />
+      <workItem from="1687897849786" duration="695000" />
+      <workItem from="1687900268121" duration="6510000" />
+      <workItem from="1687909198063" duration="138000" />
+      <workItem from="1687949156932" duration="1554000" />
     </task>
     <servers />
   </component>

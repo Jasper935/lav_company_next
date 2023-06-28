@@ -1,0 +1,104 @@
+.select {
+    width: 100% ;
+    display: flex;
+    gap: 12px;
+    user-select: none;
+    justify-content: space-between;
+    height: 40px;
+    border: 1px solid #e6e6e6;
+    outline: none;
+    margin-top: 5px;
+    background-color: #eeeeee;
+
+}
+.wrap{
+    position: relative;
+    width: 100%;
+font-size: 16px;
+    font-weight: 300;
+
+    line-height: 143%;
+    text-align: center;
+    color: var(--black);
+    height: 100%;
+}
+
+.select h4 {
+    font-weight: 600;
+
+    line-height: 143%;
+    text-align: center;
+    color: black;
+}
+
+
+.selectedText {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.icon {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 12px;
+    height: 12px;
+    fill: var(--main-text-color);
+    transform: rotate(270deg);
+    pointer-events: none;
+}
+
+.iconSelected {
+    top: 15px;
+    transform: rotate(90deg);
+}
+
+.list {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 40px;
+    display: flex;
+    flex-direction: column;
+    background-color:#eeeeee;
+    border: 1px solid #454545;
+    border-radius: 10px;
+    overflow: hidden;
+
+    z-index: 15;
+}
+
+.item {
+    width: 100%;
+    padding: 5px 5px;
+    flex-shrink: 1;
+    height: 35px;
+    font-size: 16px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    color: black;
+    border-bottom: 1px solid #454545;
+}
+
+.item:last-child {
+    border-bottom: none;
+}
+
+.item:hover {
+    color: green;
+    cursor: pointer;
+}
+
+/*--------------------localization------------------------*/
+.localizationSelect {
+    width: 37px;
+    padding: 0 5px;
+}

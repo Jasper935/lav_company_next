@@ -1,7 +1,7 @@
 import css from './Map.module.css'
 import {Layout} from "../Layout/Layout";
-import map from '../../images/map.JPG'
-
+import map from '../../images/map.png'
+import mapMobile from '../../images/card_small.JPG'
 
 export const Map = () => {
 

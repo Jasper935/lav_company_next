@@ -1,9 +1,9 @@
 import css from './Footer.module.css'
-import logo from '../../images/logo2.svg'
+import logo from '../../images/logoup.png'
 import {Layout} from "../Layout/Layout";
 export const Footer =()=>{
 
-    const info=['Юридическая компания "Ю-ПРАВО"', 'Данные юридического лица:', 'ИНН 323305843259','ОГРН 312366823500063']
+    const info=['Юридическая компания "АЛЕКСЕЕВА И ПАРТНЕРЫ"', 'Данные юридического лица:', 'ИНН 526209359230','ОГРН 315526200004982']
     return(
         <div className={css.container}>
         <footer id={'footer'} className={css.footer}>
@@ -14,8 +14,9 @@ export const Footer =()=>{
                 })}
             </ul>
             <div className={css.contacts}>
-                <a type='tel' href="">+7 (473) 200-04-86</a>
-                <p>Адрес: город Воронеж, пер. Красноармейский, 3А БЦ "Парламент" офис 302</p>
+                <a type='tel' href="tel:+74001234567">+7 400 123 45 67</a>
+                <p> Адрес: город Нижний Новгород,
+                    пл.Свободы, д. 6, оф 405</p>
             </div>
         </footer>
         </div>

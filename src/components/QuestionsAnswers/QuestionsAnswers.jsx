@@ -52,7 +52,7 @@ if (openIndex===index){
                             <use href={svg + '#icon-swipe'}/>
                         </svg>
                         <h5 className={css.question}>{question}</h5>
-                        <p className={css.answer}>{answer}</p>
+                        {openIndex===i+1&&<p className={css.answer}>{answer}</p>}
 
 
                     </li>)
